@@ -1,6 +1,6 @@
 {
-  "name": "doks-child-theme",
-  "description": "Doks child theme",
+  "name": "huongt",
+  "description": "My Notes",
   "version": "0.2.3",
   "hugo-bin": {
     "buildTags": "extended"
