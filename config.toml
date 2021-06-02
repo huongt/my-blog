@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://huongt.netlify.app/"
 title = "My Notes"
 theme = "doks"
 defaultcontentlanguage = "en"
